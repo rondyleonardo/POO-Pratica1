@@ -1,0 +1,16 @@
+C:\Users\f87621c\myApp\Udemy\OO\obj\Debug\net5.0\OO.csproj.AssemblyReference.cache
+C:\Users\f87621c\myApp\Udemy\OO\obj\Debug\net5.0\OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f87621c\myApp\Udemy\OO\obj\Debug\net5.0\OO.AssemblyInfoInputs.cache
+C:\Users\f87621c\myApp\Udemy\OO\obj\Debug\net5.0\OO.AssemblyInfo.cs
+C:\Users\f87621c\myApp\Udemy\OO\obj\Debug\net5.0\OO.csproj.CoreCompileInputs.cache
+C:\Users\f87621c\myApp\Udemy\OO\bin\Debug\net5.0\OO.exe
+C:\Users\f87621c\myApp\Udemy\OO\bin\Debug\net5.0\OO.deps.json
+C:\Users\f87621c\myApp\Udemy\OO\bin\Debug\net5.0\OO.runtimeconfig.json
+C:\Users\f87621c\myApp\Udemy\OO\bin\Debug\net5.0\OO.runtimeconfig.dev.json
+C:\Users\f87621c\myApp\Udemy\OO\bin\Debug\net5.0\OO.dll
+C:\Users\f87621c\myApp\Udemy\OO\bin\Debug\net5.0\ref\OO.dll
+C:\Users\f87621c\myApp\Udemy\OO\bin\Debug\net5.0\OO.pdb
+C:\Users\f87621c\myApp\Udemy\OO\obj\Debug\net5.0\OO.dll
+C:\Users\f87621c\myApp\Udemy\OO\obj\Debug\net5.0\ref\OO.dll
+C:\Users\f87621c\myApp\Udemy\OO\obj\Debug\net5.0\OO.pdb
+C:\Users\f87621c\myApp\Udemy\OO\obj\Debug\net5.0\OO.genruntimeconfig.cache
